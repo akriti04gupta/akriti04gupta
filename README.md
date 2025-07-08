@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akriti04gupta" alt="akriti04gupta" /></a> </p>
 
-- 🔭 I’m currently working on [The Hive](https://the-hive-i096.onrender.com)
+- 🔭 I’m currently working on [The Hive]( https://the-hive.up.railway.app/)
 
 - 🌱 I’m currently learning **advanced backend development and diving deeper into machine learning to enhance the intelligence and scalability of my full-stack projects.**
 
