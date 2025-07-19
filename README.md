@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akriti</h1>
 <h3 align="center">Passionate about crafting full-stack apps, obsessed with backend logic, and exploring the power of machine learning to build smarter web platforms.</h3>
 
-# 💫 About Me:
 🔭 I’m currently working on a research paper on binary image malware classification.<br><br>🌱 I’m currently learning advanced backend development and diving deeper into machine learning to enhance the intelligence and scalability of my full-stack projects.<br><br>💬  Ask me how I turn caffeine, chaos, and code into full-stack hackathon-winning apps!<br><br>📫 How to reach me guptaakii2604@gmail.com<br><br>⚡ Fun fact: Spent 4 hours hunting a bug. Cause? A missing semicolon. Classic developer moment.
 
 
