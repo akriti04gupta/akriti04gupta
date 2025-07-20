@@ -12,6 +12,7 @@
 # 📊 GitHub Stats:
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge&logo=github)](https://www.credly.com/badges/cm1pioiog83520cmhzx6k5g10)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/firstcontributions/first-contributions)
+[![GSSoC'25 Contributor](https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge&logo=github)](https://gssoc.girlscript.tech/)
 
 ![](https://github-readme-stats.vercel.app/api?username=akriti04gupta&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=akriti04gupta&theme=neon&hide_border=false)<br/>
