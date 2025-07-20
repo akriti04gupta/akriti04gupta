@@ -14,9 +14,9 @@
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/firstcontributions/first-contributions)
 [![GSSoC'25 Contributor](https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge&logo=github)](https://gssoc.girlscript.tech/)
 
-![](https://github-readme-stats.vercel.app/api?username=akriti04gupta&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akriti04gupta&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=akriti04gupta&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akriti04gupta&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=akriti04gupta&theme=neon&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akriti04gupta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
